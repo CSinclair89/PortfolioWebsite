@@ -7,7 +7,7 @@ The full website can be found at the following link: [https://chrisso.tv/](https
 ## Goals
 
 - Build a website to showcase not just an understanding of front-end web design, but also projects that I've worked on relevant to fields I'm passionate about: software engineering and animation.
-- Utilize Javascript and CSS to implement fun animations that enhance the user experience of the homepage.
+- Utilize Javascript and CSS to implement minor animations that enhance the user experience of the homepage.
 - Use CSS to make the website responsive on desktop, tablet, and mobile devices.
 
 ## Outcomes  
@@ -16,5 +16,5 @@ In finishing up this website, I realized two things:
 - I'm very proud of how far I've come as a programmer in the last year.
 - I have a whole lot more to learn!
 
-Of all my GitHub repositories, this project was probably the nearest and dearest to my heart because this website was meant to be a window into who I am as a person. I wanted to showcase my artistic side as well as my tech side with a well-designed website. 
+Of all my GitHub repositories, I really wanted this project to showcase my artistic side as well as my tech side with a well-designed website. 
 Even though there are plenty of areas in the CSS that I could definitely clean up and optimize, I do feel that I ultimately accomplished my goal in creating a strong portfolio website that a viewer would enjoy.
